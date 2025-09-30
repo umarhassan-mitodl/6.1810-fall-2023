@@ -1,0 +1,9 @@
+leftnav:
+- identifier: e405f9dd-c373-42e2-ad01-e478e6cb2d8f
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 951ca1ce-ee27-4f0f-be7a-716b93a6fd0f
+  name: 6.1810 Course Site
+  pageRef: /external-resources/61810-course-site
+  weight: 20

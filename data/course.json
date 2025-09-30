@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Operating Systems"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "565485f1-23b5-1c62-986f-627da41c64c0",
+      "3f30a316-4bcc-4542-a264-8f195781c984"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "36c2da29-26a4-4b08-a6a4-11f353583012",
+    "website": "operating-system-engineering"
+  },
+  "course_title": "Operating System Engineering",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "This is a course on the design and implementation of operating systems and their use as a foundation for systems programming. Topics covered include virtual memory; file systems; threads; context switches; kernels; interrupts; system calls; and interprocess communication, coordination, and interaction between software and hardware. A multi-processor operating system for RISC-V, xv6, is used to illustrate these topics. Individual laboratory assignments involve extending the xv6 operating system, for example to support sophisticated virtual memory features and networking.",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.1810",
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Laboratory Assignments",
+    "Open Textbooks",
+    "Lecture Notes"
+  ],
+  "site_uid": "a062e4e8-db04-4bcd-bb1d-4d6f80c18083",
+  "site_short_id": "6.1810-fall-2023",
+  "site_url_path": "courses/6-1810-operating-system-engineering-fall-2023"
+}
